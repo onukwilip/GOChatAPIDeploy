@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'GOChatAPI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BEE6CEA559845EC8D2F0DC75F8C5889 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DC471633A8E44D7BF502D1111537C30 }}
           package: .
